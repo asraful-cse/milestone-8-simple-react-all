@@ -1,0 +1,13 @@
+.country-blog{
+    background-color: rgb(185, 204, 91);
+  color: rgb(39, 23, 185);
+  padding: 10px;
+  border-radius: 20px;
+
+ 
+}
+
+.country-blog img{
+    width: 200px;
+    border-radius: 10px;
+}
